@@ -1,4 +1,3 @@
-# Crear requests.txt
 import py7zr, binascii, hashlib
 import random, os
 import argparse
